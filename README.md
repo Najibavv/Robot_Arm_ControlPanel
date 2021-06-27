@@ -10,7 +10,7 @@ I styled the interface with CSS (file-css.css)
 Moving on to the database, which was created in PHPMyAdmin through XAMP. This has been one hell of a ride! since I have never done anything like that through my CS program.
 For the values of the angles to be stored we had to create a database, with one table and 7 columns, 6 of which for the 6 motors values and 1 for the ID of the robot (Primary key, Auto increment). the file (motorval.sql).
 
-The last part is the PHP code to connect the DB and the interface file(submit.php), as mentioned previously, this is my first time doing it and this video has helped me immensely (Don't forget to practice on your own projects to grasp the concept!)
+The last part is the PHP code to connect the DB and the interface (file-submit.php), as mentioned previously, this is my first time doing it and this video has helped me immensely (Don't forget to practice on your own projects to grasp the concept!)
  https://www.youtube.com/watch?v=HrRAaePsX6U
  
  
