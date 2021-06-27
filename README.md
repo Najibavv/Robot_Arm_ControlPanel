@@ -1,5 +1,5 @@
 # Robot_Arm_ControlPanel
- this repository containes the 1st task of the summer internship (Smart solutions "IOT path" - 2021).
+ this repository containes the 1st task of the summer internship (Smart methods "IOT path" - 2021).
  
 
 we were assigned a task in which allows us to control the angels of the robot's arm.
